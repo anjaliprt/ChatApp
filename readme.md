@@ -1,1 +1,1 @@
-ChatApp is a springboot project using websockets and in memory message broker and message protocol STOMP inorder for the data exchange .
+ChatApp is a Springboot project using websockets and in memory message broker and messaging protocol STOMP for the data exchange and defining the functionalites .
